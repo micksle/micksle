@@ -40,6 +40,24 @@ Here is the major part of the tools and technologies I am experienced in. Some o
 <br>
 
 <!--
+----
+<details>
+  <summary><h2>⚡ Personal statistics</h2></summary>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mickzle&theme=shades_of_purple"/>
+  <br/>
+  <br/>
+  <a href="https://github.com/mickzle/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickzle&theme=shades-of-purple&hide_border=true&layout=compact"/>
+  </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://streak-stats.demolab.com/?user=mickzle&theme=shades-of-purple&hide_border=true"/>
+  </a>
+</div>
+</details>
+-->
+
+<!--
 [![GitHub Streak](https://streak-stats.demolab.com?user=mickzle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=15%2C534F7C%2C2D2B55)](https://git.io/streak-stats)
 -->
 

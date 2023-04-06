@@ -33,8 +33,15 @@ Here is the major part of the tools and technologies I am experienced in. Some o
   <a href="https://git.io/streak-stats">
     <img align="center" src="https://streak-stats.demolab.com/?user=mickzle&theme=shades-of-purple&hide_border=true"/>
   </a>
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="[https://streak-stats.demolab.com/?user=mickzle&theme=shades-of-purple&hide_border=true](https://streak-stats.demolab.com?user=mickzle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2CFFFFFF%2C2D2B55)"/>
+  </a>
 </div>
 <br>
+
+<!--
+[![GitHub Streak](https://streak-stats.demolab.com?user=mickzle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=15%2C534F7C%2C2D2B55)](https://git.io/streak-stats)
+-->
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mickzle&theme=shades-of-purple)](https://git.io/streak-stats)

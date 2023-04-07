@@ -80,6 +80,8 @@ Here is the major part of the tools and technologies I am experienced in. Some o
 </div>
 -->
 
-<!--
-<img src="https://visitor-badge.glitch.me/badge?page_id=mickzle.visitor-badge&color=5194f0"/>
--->
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmickzle&label=ATTENDANTS&labelColor=%233d3b62&countColor=%23575591)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmickzle)
+
+![](https://api.visitorbadge.io/api/visitors?path=mickzle&label=ATTENDANTS&labelColor=%233d3b62&countColor=%23575591)
+
+<img src="https://visitor-badge.glitch.me/badge?page_id=mickzle.visitor-badge&label=ATTENDANTS&left_color=purple&right_color=navy"/>

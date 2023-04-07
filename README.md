@@ -7,6 +7,8 @@ I\'m **Yaroslav** (mickzle), and I'm currently deeply engaged in my computer eng
 
 🎯 I\`m constantly working on developing myself and trying to be flexible so the enroll into different courses and master classes to improve my knowledge are happen all the time <br>
 
+![Attendances](https://shields-io-visitor-counter.herokuapp.com/badge?page=mickzle&style=for-the-badge&label=ATTENDANCES&labelColor=3D3B62&color=575591)
+
 Here is the major part of the tools and technologies I am experienced in. Some of them are my daily tools, others were used temporairly. It\`s constantly increasing so stay tuned! <br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -80,8 +82,10 @@ Here is the major part of the tools and technologies I am experienced in. Some o
 </div>
 -->
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmickzle&label=ATTENDANTS&labelColor=%233d3b62&countColor=%23575591)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmickzle)
+<!--
+<img src="https://visitor-badge.glitch.me/badge?page_id=mickzle.visitor-badge&label=ATTENDERS&left_color=purple&right_color=navy"/>
+-->
 
-![](https://api.visitorbadge.io/api/visitors?path=mickzle&label=ATTENDANTS&labelColor=%233d3b62&countColor=%23575591)
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=mickzle.visitor-badge&label=ATTENDANTS&left_color=purple&right_color=navy"/>
+<!--
+<img src="https://visitor-badge.glitch.me/badge?page_id=mickzle.visitor-badge&color=5194f0" />
+-->

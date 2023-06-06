@@ -1,13 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7D74B8,100:2D2B55&height=250&section=header&text=Greetings%20here!&fontSize=80&fontAlignY=35&animation=twinkling&desc=mickzle%20repo&descAlignY=52&descAlign=76&textBg=f0d13c)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:7D74B8,100:2D2B55&height=250&section=header&text=Greetings%20here!&fontSize=80&fontAlignY=35&animation=twinkling&desc=micksle%20repo&descAlignY=52&descAlign=76&textBg=f0d13c)
 
 # Cheers! 👀 🐾
-I\'m **Yaroslav** (mickzle), and I'm currently deeply engaged in my computer engineer majoring at the "Igor Sikorsky Kyiv Polytechnic Institute" <br>
+I\'m **Yaroslav** (micksle), and I'm currently deeply engaged in my computer engineer majoring at the "Igor Sikorsky Kyiv Polytechnic Institute" <br>
 
 💻 My future plan is to perform as a **Backend engineer**, and I\`m deeply focused on accomplishing that thing <br>
 
 🎯 I\`m constantly working on developing myself and trying to be flexible so the enroll into different courses and master classes to improve my knowledge are happen all the time <br>
 
-![Attendances](https://shields-io-visitor-counter.herokuapp.com/badge?page=mickzle&style=for-the-badge&label=ATTENDANCES&labelColor=3D3B62&color=575591)
+![Attendances](https://shields-io-visitor-counter.herokuapp.com/badge?page=micksle&style=for-the-badge&label=ATTENDANCES&labelColor=3D3B62&color=575591)
 
 Here is the major part of the tools and technologies I am experienced in. Some of them are my daily tools, others were used temporairly. It\`s constantly increasing so stay tuned! <br>
 <div>
@@ -26,17 +26,17 @@ Here is the major part of the tools and technologies I am experienced in. Some o
 
 ## ⚡ Personal statistics
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mickzle&theme=shades_of_purple"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micksle&theme=shades_of_purple"/>
   <br/>
   <br/>
-  <a href="https://github.com/mickzle/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mickzle&theme=shades-of-purple&hide_border=true&layout=compact"/>
+  <a href="https://github.com/micksle/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micksle&theme=shades-of-purple&hide_border=true&layout=compact"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com/?user=mickzle&theme=shades-of-purple&hide_border=true"/>
+    <img align="center" src="https://streak-stats.demolab.com/?user=micksle&theme=shades-of-purple&hide_border=true"/>
   </a>
   <a href="https://git.io/streak-stats">
-    <img align="center" src="[https://streak-stats.demolab.com/?user=mickzle&theme=shades-of-purple&hide_border=true](https://streak-stats.demolab.com?user=mickzle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2CFFFFFF%2C2D2B55)"/>
+    <img align="center" src="[https://streak-stats.demolab.com/?user=micksle&theme=shades-of-purple&hide_border=true](https://streak-stats.demolab.com?user=micksle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=45%2CFFFFFF%2C2D2B55)"/>
   </a>
 </div>
 <br>
@@ -60,7 +60,7 @@ Here is the major part of the tools and technologies I am experienced in. Some o
 -->
 
 <!--
-[![GitHub Streak](https://streak-stats.demolab.com?user=mickzle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=15%2C534F7C%2C2D2B55)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=micksle&theme=shades-of-purple&border_radius=15&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=15%2C534F7C%2C2D2B55)](https://git.io/streak-stats)
 -->
 
 <!--
